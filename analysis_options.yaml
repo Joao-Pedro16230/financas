@@ -10,8 +10,8 @@ analyzer:
     - build/**
     - android/**
     - ios/**
-    - linux/**
     - web/**
+    - linux/**
 
 linter:
   rules:
